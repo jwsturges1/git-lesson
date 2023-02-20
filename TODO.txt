@@ -1,0 +1,5 @@
+Create a repo
+add a file to the repo
+modify a file locally
+modiify a fil on GitHub
+
